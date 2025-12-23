@@ -15,7 +15,7 @@ Para critérios de desenvolvimento foram inseridos locais específicos, porém a
 [![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#)
 
 ## Acesso
-A aplicação pode ser acessada [aqui](##)
+A aplicação pode ser acessada [aqui](https://dmoprates.github.io/ecotrip/)
 
 ## Pré-Visualização
 
